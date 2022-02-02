@@ -18,3 +18,4 @@ yarn dev
 
 ![alt text](/public/images/page1.png)
 ![alt text](/public/images/page2.png)
+![alt text](/public/images/page3.png)
