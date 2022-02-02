@@ -16,5 +16,5 @@ npm run dev
 yarn dev
 ```
 
-! [screenshot] (/public/images/page1.png)
-! [screenshot] (/public/images/page2.png)
+! [ScreenShot] (/public/images/page1.png)
+! [ScreenShot] (/public/images/page2.png)
