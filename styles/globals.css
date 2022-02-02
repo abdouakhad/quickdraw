@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply font-mono;
+  font-family: 'Space Mono', monospace !important;
+}
+
+body {
+  background: url('../public/main.png') no-repeat top left fixed;
+}
+
+.dashed {
+  border-style: dashed;
+  border-width: 2px;
+}
